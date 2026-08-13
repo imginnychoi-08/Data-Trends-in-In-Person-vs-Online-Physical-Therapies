@@ -9,7 +9,4 @@ Going into the project, I expected that the number of in-person physical therapy
 I decided to split the experiment into two parts. I wanted to see what people are searching for online and if it had a correlation with actual behavior.
 ## Part 1: Online Search Trends
 I initially started thinking that I wanted to use Google’s own api, but it was deprecated. As a result, I found another api that works similarly to Google’s. I used Serpapi to generate codes of data that provided the data sets of the numbers of in-person and online physical therapy in 2020 to 2025. With the code generated, I used Google Colab to use the code and form graphs that show trends of each over the years.
-## In-Person Physical Therapy Trend
-<img src="images/physical-therapy-trend.png" width="800">
-![In-Person Physical Therapy Trend](images/physical-therapy-trend.png)
-![image 2](online.png)
+![image 2](In-Person Physical Therapy Trend Line.png)
