@@ -10,9 +10,9 @@ I decided to split the experiment into two parts. I wanted to see what people ar
 ## Part 1: Online Search Trends
 I initially started thinking that I wanted to use Google’s own API, but it was deprecated. As a result, I found another api that works similarly to Google’s. I used SerpApi to generate codes of data that provided the data sets of the numbers of in-person and online physical therapy in 2020 to 2025. With the code generated, I used Google Colab to use the code and form graphs that show trends of each over the years.
 
-![Google Search Trends for In-Person Physical Therapy](./Google%20Search%20Trends%20for%20In-Person%20Therapy.png)
+![Online Physical Therapy Search Trends](./Google%20Search%20Trends%20for%20Online%20Physical%20Therapy%20%282020-2024%29.png)
 
-![Virtual Physical Therapy Trend Line](./Virtual%20Physical%20Therapy%20Trend%20Line.png)
+![In-Person Physical Therapy Search Trends](./Google%20Search%20Trends%20for%20In-Person%20Physical%20Therapy%20%282020-2024%29.png)
 The graphs for both in-person and online trends all show an increase with a decreasing rate, meaning the rate at which the numbers of sessions are increasing is decreasing over time.
 ## Part 2: Insurance Data Trends
 I went on Kaggle to find possible data sets I could use, but none showed up for the topic of online physical therapy. As a result, I went on Data.CMS.gov, which is used very commonly for academic research, where I searched for data sets that included data of in-person and online physical therapy. I wanted an actual insurance record so that the data I will be working with is true.
